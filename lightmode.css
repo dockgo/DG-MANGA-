@@ -1,0 +1,344 @@
+.lightmode {
+    background: #f1f1f1;
+    color: #222;
+}
+.lightmode a {
+    color: #000;
+}
+.lightmode a:hover {
+    color: #3367d6;
+}
+.lightmode #thememode .xt {
+    color: grey;
+}
+
+.lightmode .slider.round {
+    background: #CCC;
+}
+.lightmode .th {
+    background: #FFF;
+}
+.lightmode .searchx #form #s {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    color: #555;
+}
+
+.lightmode .searchx #form #submit {
+    color: #ddd;
+}
+.lightmode #live-search_results {
+    background: #fff;
+    box-shadow: 0 0 3px rgba(0,0,0,.2);
+}
+
+.lightmode #live-search_results .live-search_result_container li {
+    color: #888;
+    border-bottom: 1px solid #eee;
+}
+.lightmode .live-search_result_container li:hover {
+    background: #fcfcfc;
+}
+.lightmode .live-search_result_container .over span {
+    color: #888;
+}
+
+.lightmode .bixbox {
+    background: #FFF;
+}
+
+.lightmode p.index {
+    background: #FFF;
+    color: #000;
+    box-shadow: 0 2px 3px rgba(0,0,0,.1);
+}
+
+.lightmode p.index b {
+    color: #000;
+}
+
+.lightmode .bixbox .releases {
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.lightmode .releases h1, .lightmode .releases h3, .lightmode #sidebar .section h4 {
+    color: #3367d6;
+}
+
+.lightmode .releases a.vl, .lightmode .scrollToTop {
+    color: #FFF;
+}
+.lightmode #sidebar .section {
+    background: #FFF;
+}
+
+.lightmode .releases {
+    border-bottom: 1px solid #ececec;
+}
+
+.lightmode .serieslist ul li {
+    border-bottom: 1px solid #ececec;
+}
+
+.lightmode .serieslist ul li .ctr {
+    color: #3367d6;
+    border-color: #3367d6;
+}
+
+.lightmode #sidebar .section ul.genre:before, .lightmode #sidebar .section ul.genre:after {
+    background: #ececec;
+}
+.lightmode #sidebar .section ul>li {
+    border-color: #ececec;
+}
+.lightmode .listupd .utao .uta {
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.lightmode .listupd .utao .uta .luf ul li span {
+    color: #999;
+}
+
+.lightmode .hpage a {
+    color: #FFF;
+}
+
+.lightmode .bs .bsx:hover .tt {
+    color: #3367d6;
+}
+
+.lightmode .bs .bsx .adds {
+    color: #000;
+}
+
+.lightmode .bs .bsx .adds .rating i {
+    color: #999;
+}
+
+.lightmode .bs .bsx .adds .rating .rtg a:after {
+    color: #d2d2d2;
+}
+
+.lightmode .bs .bsx .adds .rating .rtg a.br-selected:after {
+    color: #EDB867;
+}
+.lightmode .bs .bsx .limit {
+    background: #f6f6f6;
+}
+.lightmode .postbody p.ctn {
+    background: #f8f8f8;
+}
+.lightmode .pagination span.page-numbers.current {
+    color: #FFF;
+}
+
+.lightmode .pagination a {
+    background: #efefef;
+}
+.lightmode #footer {
+    background: #222;
+}
+.lightmode .modex a, .lightmode .filter {
+    color: #FFF;
+}
+
+.lightmode .filter:hover {
+    color: #222;
+}
+.lightmode .nav_apb a {
+    background: #e9e9e9;
+}
+
+.lightmode .nav_apb a:hover {
+    background: #3367d6;
+    color: #FFF;
+}
+
+.lightmode .soralist span {
+    border-bottom: 1px solid #ececec;
+}
+.lightmode .bigcontent .rt .rating {
+    background: #f6f6f6;
+}
+
+.lightmode .bigcontent .rt .rating .br-widget a:after {
+    color: #DDD;
+}
+
+.lightmode .bigcontent .rt .rating .br-widget a.br-selected:after {
+    color: #EDB867;
+}
+
+.lightmode .animefull .bottom {
+    border-top: 1px solid #ececec;
+}
+
+.lightmode .bigcontent .infox .desc {
+    color: #333;
+}
+
+.lightmode .bxcl ul li {
+    border-bottom: 1px solid #ececec;
+}
+
+.lightmode .bxcl ul li span.dt a {
+    color: #FFF;
+}
+
+.lightmode .bxcl ul li span.dt a:hover {
+    background: #555;
+}
+.lightmode .bigcontent .thumb {
+    border-color: #FFF;
+}
+.lightmode .bookmark {
+    color: #FFF;
+}
+.lightmode .advancedsearch tr .inputx {
+    background: #FFF;
+    color: #333;
+    border-color: #DDD;
+}
+
+.lightmode .checkmarkx {
+    background-color: #DDD;
+}
+
+.lightmode .checkmark {
+    background-color: #DDD;
+}
+
+.lightmode .advancedsearch button.searchz {
+    color: #FFF;
+}
+.lightmode .surprise {
+    color: #FFF;
+}
+
+.lightmode .commentx textarea {
+    border-color: #DDD;
+    color: #000;
+}
+.lightmode #sidebar #bm-history li {
+    border-color: #ececec;
+}
+
+.lightmode #sidebar #bm-history li a:hover {
+    box-shadow: none;
+}
+.lightmode .lista {
+    background: #f8f8f8;
+    border-bottom: 1px solid #ececec;
+}
+.lightmode .lista a {
+    background: #FFF;
+    border: 1px solid #e0e0e0;
+}
+
+.lightmode .lista a:hover {
+    background: #3367d6;
+    color: #FFF;
+    border-color: #3367d6;
+}
+
+.lightmode .listo .bx {
+    border-bottom: 1px solid #ececec;
+}
+.lightmode .postbody .ntf, .lightmode .hapus {
+    color: #FFF;
+}
+.lightmode .blogbox .boxlist .bma .bmb {
+    background: #FFF;
+    -webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1);
+    -khtml-box-shadow: 0 2px 3px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 2px 3px rgba(0,0,0,.1);
+    -ms-box-shadow: 0 2px 3px rgba(0,0,0,.1);
+    -o-box-shadow: 0 2px 3px rgba(0,0,0,.1);
+    box-shadow: 0 2px 3px rgba(0,0,0,.1);
+}
+
+.lightmode .blogbox .boxlist .bma .bmb .bmba .bmbah h2 {
+    font-weight: normal;
+}
+
+.lightmode .blogbox .boxlist .bma .bmb .bmba .bmbaa {
+    background: #f2f1f1;
+}
+
+.lightmode .blogbox .btitle .vl {
+    color: #FFF;
+}
+.lightmode .bigblogt h1 {
+    color: inherit;
+}
+
+.lightmode .bigblogt span {
+    color: #999;
+}
+
+.lightmode .bigblogt span a {
+    color: #FFF;
+}
+
+.lightmode .page.blog {
+    color: inherit;
+}
+.lightmode .blogbox .btitle h3,.lightmode .blogbox .btitle h1 {
+    color: #3367d6;
+}
+.black {
+    background: #16151d;
+    color: #999;
+}
+
+.black a {
+    color: #DDD;
+}
+
+.black .th {
+    background: #0b0a0d;
+}
+
+.black .nextprev a {
+    color: #FFF;
+}
+
+.black a:hover {
+    color: #FFF;
+}
+
+.black .searchx #form #s {
+    background-color: #17151b;
+    border: 1px solid #23202a;
+    color: #FFF;
+}
+
+.black .searchx #form #submit {
+    color: #555;
+}
+
+.black #live-search_results {
+    box-shadow: 0 4px 20px #000;
+    background: #1a1920;
+}
+
+.black #live-search_results .live-search_result_container li {
+    border-bottom: 1px solid #262432;
+}
+
+.black .live-search_result_container li:hover {
+    background: #1f1d26;
+}
+
+.black .live-search_result_container .over span {
+    color: #777;
+}
+@media only screen and (max-width:800px) {
+.lightmode .th {background:#3367d6}
+input:checked + .slider {
+    background-color: #FFF;
+}
+.slider:before {
+    background: #3367d6;
+}
+}
