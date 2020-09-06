@@ -29,7 +29,7 @@
 }
   
   @media only screen and (max-width: 800px)
-.searchx #form #s {
+.searchx #form #q {
     border-color: #fff;
     background: #fff;
     color: #333;
